@@ -1,5 +1,6 @@
 # US GDP prediction
 This repository is dedicated to the group project for the exam __Time Series and Forecasting__.
+
 The project's authors are:
 - [__Guglielmo Berzano__](https://github.com/guber25)
 - [__Nicolò Pignatelli__](https://github.com/NicoPigna)
